@@ -1,0 +1,68 @@
+body {
+    background-color: #d6d6d6;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 100vw 90px;
+    height: 140vh;
+    
+  }
+  #logo {
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    top: 40px;
+    left: 180px;
+  }
+  
+  #main-card {
+    width: 300px;
+    height: 700px;
+    background-color: white;
+    position: absolute;
+    top: 110px;
+    left: 80px;
+  }
+  #side-card {
+    height: 300px;
+    width: 100px;
+    background-color: white;
+    position: absolute;
+    top: 110px;
+    left: 400px;
+    border: 2px solid black;
+  }
+  #foos {
+    height: 200px;
+    width: 230px;
+  }
+  
+  #courage {
+    height: 200px;
+    width: 230px;
+  }
+  
+  #socials {
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 900px;
+    left: 250px;
+  }
+  p {
+    font-size: 9px;
+  }
+  ul {
+    list-style-type: none;
+  }
+  li {
+    font-size: 9px;
+    margin-left: -25px;
+    font-weight: bold;
+  }
+  #img-group > img {
+    height: 38px;
+    width: 80px;
+    margin-left: 10px;
+  }
+  

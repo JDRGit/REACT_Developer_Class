@@ -68,7 +68,7 @@ class Hamster {
       this.mood += 10;
       return `ollie is the real name of my hamster.`
       } else 
-      return`You don't have enough money.`;
+      return`Need a job in IT`;
     }
     getPrice() {  
     }

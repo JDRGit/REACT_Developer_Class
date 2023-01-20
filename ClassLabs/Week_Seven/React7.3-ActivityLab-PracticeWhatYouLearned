@@ -1,0 +1,17 @@
+1. What is a Single Page Application?
+A Single Page Application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current page rather than loading entire new pages from a server.
+
+2. What is REACT?
+React is a JavaScript library for building user interfaces. It allows developers to build reusable UI components and manage the state of the application.
+
+3. What is JSX?
+JSX is a syntax extension for JavaScript, which allows you to write HTML-like elements in your JavaScript code. It is used in React to describe the structure of a component's UI.
+
+4. What is Babel?
+Babel is a JavaScript compiler that allows developers to use next-gen JavaScript features and write code that is compatible with older browsers.
+
+5. What is Webpack?
+Webpack is a module bundler for JavaScript applications. It takes modules with dependencies and generates static assets representing those modules.
+
+6. What is Create React App?
+Create React App (CRA) is a tool that allows developers to quickly set up a new React project with a basic file structure and a development server. It also includes features such as hot module replacement, which allows for fast development and prototyping.

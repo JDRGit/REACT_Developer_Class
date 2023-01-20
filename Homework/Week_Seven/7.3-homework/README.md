@@ -1,6 +1,9 @@
 Create React App works on macOS, Windows, and Linux.
 
-Quick Overview npx create-react-app nameofyourapp cd my-app npm start
+Quick Overview 
+npx create-react-app nameofyourapp 
+cd my-app 
+npm start
 
 For more Information Please Visit:
 

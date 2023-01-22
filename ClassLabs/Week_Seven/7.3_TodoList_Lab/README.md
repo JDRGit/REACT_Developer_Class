@@ -21,7 +21,7 @@ Run the following commands
 
 ```bash
 npx create-react-app nameofyourapp
-cd my-app
+cd nameofyourapp
 npm start
 
 ```

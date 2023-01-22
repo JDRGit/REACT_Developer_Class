@@ -14,5 +14,5 @@
 ## Acknowledgements
 
  - https://beta.reactjs.org/learn/passing-props-to-a-component
-![ReactLogo](http://localhost:8080/ReactLogo.jpg)
+![ReactLogo](https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png)
 
